@@ -1,0 +1,4 @@
+name=SBUS
+version=1.0.0
+architectures=*
+includes=SBUS.h
